@@ -1,33 +1,6 @@
-# AxeBlade Software - Template Web
+# AxeBlade Software - DedeCustos
 
-Este é um template para aplicações web com menu header e menu lateral
-
-## Tecnologia
-
-A base da aplicação é em React. Mais precisamente com o framework Next.js da Vercel
-
-Inicialmente pegou-se por base o template de desenvolvimento disponibilizado no GitHub (git@github.com:pmdpaula/NextJs-Typescript-StyledComponents-Eslint-Prettier-Husky.git)
-Este modelo usa:
-
-- Nextjs
-- typescript
-- eslint
-- prettier
-- husky
-- Material UI
-
-## Componentes
-
-A biblioteca de componentes utilizada foi a Material UI (https://material-ui.com).
-Também foi utilizado o styled-components para melhor estilização de componentes.
-
-## Testes
-
-### Teste de integração
-
-Uso do cypress para testes de UI/UX
-
-_$> yarn add cypress eslint-plugin-cypress -D_
+Aplicação simples para verificação de custos de aquisição de produtos
 
 ## Responsáveis
 
